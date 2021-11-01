@@ -1,3 +1,3 @@
-# site de galerie
+# site de galerie d peinture
 
-site présentant des peinturess
+site internet présentant des peinturess
